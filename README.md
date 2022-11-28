@@ -7,7 +7,7 @@ Best Account Streaming Project V13
 Dont Forget Give star2 Project And Thank You All
 
 # How To Use
-Just Open config.json file and types tells you all the information how to use project
+https://www.youtube.com/@SHEXWLAT
 
 # Link My Discord Servers
 
