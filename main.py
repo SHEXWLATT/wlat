@@ -6,13 +6,13 @@ import time
 
 playload = {
 
-    'content': '' # < < SPAM MSG
+    'content': 'SHEX WLAT' # < < SPAM MSG
 
 }
 
 headerst = {
 
-    'authorization': '' # < < Token 1
+    'authorization': 'ODI0MjYxMjExMzY0MzkzMDUw.GP9p6y.TE3GEcTUipHE2M58mJYaEso1fCpUKf_91kfgLs' # < < Token 1
 
 }
 
@@ -28,7 +28,7 @@ headerst2 = {
 
 }
 
-channel = '' # < < Room Id
+channel = '1045828074287153252' # < < Room Id
 
 url = f'https://discord.com/api/v8/channels/{channel}/messages'
 
